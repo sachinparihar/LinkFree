@@ -68,19 +68,19 @@ Your brand new file should look something similar to this one:
 
 ```json
 {
-  "name": "YOUR NAME",
-  "type": "personal",
-  "bio": "Open Source Enthusiast!",
-  "avatar": "https://github.com/YOUR_GITHUB_USERNAME.png",
+  "name": "Sachin Parihar",
+  "type": "personal"
+  "bio": "Open Source Enthusiast!& Also I am interest in DevOps!",
+  "avatar": "https://github.com/sachinparihar.png",
   "links": [
     {
       "name": "Follow me on GitHub",
-      "url": "https://github.com/YOUR_GITHUB_USERNAME",
+      "url": "https://github.com/sachinparihar",
       "icon": "github"
     },
     {
       "name": "Follow me on Twitter",
-      "url": "https://twitter.com/YOUR_TWITTER_USERNAME",
+      "url": "https://twitter.com/@SachinSarkar001",
       "icon": "twitter"
     }
   ],
