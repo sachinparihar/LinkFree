@@ -70,7 +70,7 @@ Your brand new file should look something similar to this one:
 {
   "name": "Sachin Parihar",
   "type": "personal"
-  "bio": "Open Source Enthusiast!& Also I am interest in DevOps!",
+  "bio": "I am Sachin Parihar, currently pursuing my engineering in computer science from GJU College.I am Open Source Enthusiast!& Also I am interest in DevOps!",
   "avatar": "https://github.com/sachinparihar.png",
   "links": [
     {
@@ -82,16 +82,6 @@ Your brand new file should look something similar to this one:
       "name": "Follow me on Twitter",
       "url": "https://twitter.com/@SachinSarkar001",
       "icon": "twitter"
-    }
-  ],
-  "milestones": [
-    {
-      "title": "Started Freelancing",
-      "date": "December 2021",
-      "icon": "dollar",
-      "color": "grey",
-      "description": "Started freelancing",
-      "url": "https://www.eddiejaoude.io/"
     }
   ]
 }
